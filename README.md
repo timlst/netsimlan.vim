@@ -19,6 +19,7 @@ The main goal is to provide basic comfort, it does not aim to provide a fullfled
 ### Installing
 
 This should be compatible with Pathogen and all basic vim plugin managers that match include its functionality.
+NetSimLan does not provide any file type by default, so _nsl_ and _nslc_ files are highlighted.
 
 ## Authors
 
