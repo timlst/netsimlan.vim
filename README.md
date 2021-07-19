@@ -6,7 +6,7 @@ Syntax Highlighting for the [NetSimLan Programming Language](https://netsimlan.o
 
 This plugin adds basic syntax highlighting functionality to the NetSimLan Programming Language developed at the [SFB901](https://sfb901.uni-paderborn.de/de/) at the University of Paderborn.
 
-I made this for my lecture "Verteilte Algorithmen und Datenstrukturen" held by Prof. Dr. Christian Scheideler in the winter term 2020/2021.
+I made this for my lecture "Verteilte Algorithmen und Datenstrukturen" held by Prof. Dr. Christian Scheideler in the summer term 2021.
 
 The main goal is to provide basic comfort, it does not aim to provide a fullfledged experience that fully incorporates all of NetSimLan's features.
 
