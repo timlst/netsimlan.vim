@@ -23,8 +23,6 @@ NetSimLan does not provide any file type by default, so _nsl_ and _nslc_ files a
 
 ## Authors
 
-Contributors names and contact info
-
 Tim Storm
 
 ## Version History
