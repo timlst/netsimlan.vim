@@ -15,7 +15,7 @@ syntax keyword nslKeyword if else while for break continue return
 highlight link nslKeyword Keyword
 
 " standard functions
-syntax keyword nslFunction entry init timeout length id longitude latitude type hash hash2 hash3 containts str_len sub_str random sqrt log round sin cos tan arcsin arccos arctan sinh tanh print visLabel sleep kill mark synchronize startRound
+syntax keyword nslFunction entry init timeout length id longitude latitude type hash hash1 hash2 containts str_len sub_str random sqrt log round sin cos tan arcsin arccos arctan sinh tanh print visLabel sleep kill mark synchronize startRound
 highlight link nslFunction Function
 
 " all primitive datatypes available
