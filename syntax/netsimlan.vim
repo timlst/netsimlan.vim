@@ -14,6 +14,9 @@ highlight link nslConstant Constant
 syntax keyword nslKeyword if else while for break continue return
 highlight link nslKeyword Keyword
 
+syntax keyword nslBreakpoint BREAKPOINT
+highlight link nslBreakpoint Label
+
 " standard functions
 syntax keyword nslFunction entry init timeout length id longitude latitude type hash hash1 hash2 containts str_len sub_str random sqrt log round sin cos tan arcsin arccos arctan sinh tanh print visLabel sleep kill mark synchronize startRound
 highlight link nslFunction Function
@@ -60,7 +63,7 @@ highlight link nslNumber Number
 highlight link nslFPNumber Float
 
 " comments on /* */
-syntax match nslComment "/\*.*\*/"
+" syntax match nslComment "/\*.*\*/"
 syntax region nslComment start="/\*" end="\*/"
 highlight link nslComment Comment
 
